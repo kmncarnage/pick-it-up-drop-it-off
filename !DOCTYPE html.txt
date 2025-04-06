@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pick It Up, Drop It Off</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <header class="bg-white shadow p-6">
+    <h1 class="text-3xl font-bold text-center">Pick It Up, Drop It Off</h1>
+    <p class="text-center text-gray-600">Local Delivery Made Simple</p>
+  </header>
+
+  <section class="max-w-4xl mx-auto py-10 px-6">
+    <h2 class="text-2xl font-semibold mb-4">What We Do</h2>
+    <p class="mb-4">Fast, secure, and affordable delivery solutions with a reliable vehicle and 7x4 cage trailer—perfect for those “how do I even move this?” moments.</p>
+    <ul class="list-disc list-inside space-y-2">
+      <li>Furniture & white goods</li>
+      <li>Facebook Marketplace & Gumtree pickups</li>
+      <li>Bunnings, IKEA, and retail store runs</li>
+      <li>Landscaping supplies & tools</li>
+      <li>Light machinery and odd-sized items</li>
+    </ul>
+  </section>
+
+  <section class="bg-white py-10 px-6">
+    <div class="max-w-4xl mx-auto">
+      <h2 class="text-2xl font-semibold mb-4">Why Choose Us?</h2>
+      <ul class="list-disc list-inside space-y-2">
+        <li><strong>On-Time, Every Time:</strong> We show up when we say we will—no ghosting, no guesswork.</li>
+        <li><strong>Safe & Secure Transport:</strong> Items are carefully loaded and secured in our 7x4 cage trailer.</li>
+        <li><strong>Clear Pricing:</strong> No hidden fees. Know what you're paying upfront.</li>
+        <li><strong>Same-Day Availability:</strong> Ready to roll when you are.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="max-w-4xl mx-auto py-10 px-6">
+    <h2 class="text-2xl font-semibold mb-4">Service Areas</h2>
+    <p class="mb-4">Proudly serving <em>[Insert Local Suburbs/Regions]</em> and surrounding areas. Not sure if we come to you? Just ask!</p>
+  </section>
+
+  <section class="bg-white py-10 px-6">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-2xl font-semibold mb-4">Get a Quote or Book Now</h2>
+      <p class="mb-4">Call or Text: <strong>[Your Name] – [Phone Number]</strong></p>
+      <p class="mb-4">Email: <strong>[Email Address]</strong></p>
+      <p>Or send us a message via <em>[WhatsApp/Facebook/Contact Form Link]</em></p>
+    </div>
+  </section>
+
+  <footer class="bg-gray-200 text-center py-4">
+    <p>&copy; 2025 Pick It Up, Drop It Off. All rights reserved.</p>
+  </footer>
+</body>
+</html>
